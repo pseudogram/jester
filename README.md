@@ -12,11 +12,11 @@ Make sure that the JavaScript/TypeScript parser for [nvim-treesitter](https://gi
 
 For [vim-plug](https://github.com/junegunn/vim-plug):
 ```
-Plug 'David-Kunz/jester'
+Plug 'pseudogram/jester'
 ```
 For [packer](https://github.com/wbthomason/packer.nvim):
 ```
-use 'David-Kunz/jester'
+use 'pseudogram/jester'
 ```
 
 ## Usage
